@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+	
+body{
+	background-color:#A9A769;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color: white;
+	width:960px;
+	margin: 0 auto;
+}
+
+h1 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	margin-top: auto;
+}
+
+h2 {
+	border-top: 1px solid #4F4949;
+	padding-top: 30px;
+	margin-top: 30px;
+}
+
+h3 {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
