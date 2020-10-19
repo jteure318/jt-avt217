@@ -1,0 +1,57 @@
+@charset "UTF-8";
+/* CSS Document */
+@font-face {
+    font-family: 'aaarghnormal';
+    src: url('Aaargh-webfont.eot');
+    src: url('Aaargh-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Aaargh-webfont.woff2') format('woff2'),
+         url('Aaargh-webfont.woff') format('woff'),
+         url('Aaargh-webfont.ttf') format('truetype'),
+         url('Aaargh-webfont.svg#aaarghnormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+
+}
+
+@font-face {
+	font-family: 'action_man_shadedregular';
+    src: url('Action_Man_Shaded-webfont.eot');
+    src: url('Action_Man_Shaded-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Action_Man_Shaded-webfont.woff2') format('woff2'),
+         url('Action_Man_Shaded-webfont.woff') format('woff'),
+         url('Action_Man_Shaded-webfont.ttf') format('truetype'),
+         url('Action_Man_Shaded-webfont.svg#action_man_shadedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1 {
+	font-family: 'aaarghnormal';
+}
+
+
+h2 {
+	font-family: 'action_man_shadedregular';
+}
+
+
+h3 {
+	
+	font-family: 'Commissioner', sans-serif;
+	font-weight: 400;
+}
+
+
+h4 {
+	font-family: 'Commissioner', sans-serif;
+	font-weight: 900;	
+}
+
+p {
+	font-family: 'Piazzolla', serif;
+	font-weight: 400;
+	
+	
+}
